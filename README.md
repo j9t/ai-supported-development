@@ -6,15 +6,16 @@
 
 ## Solutions
 
-### Multi-Purpose
+### Development
 
+* [Amazon Q Developer coding assistant](https://aws.amazon.com/q/developer/)
 * [Cursor code editor](https://www.cursor.com/)
 * [GitHub Copilot coding assistant](https://github.com/features/copilot)
 * [SourceGraph Cody coding assistant](https://sourcegraph.com/demo/cody)
 * [tabnine coding assistant](https://www.tabnine.com/ai-coding-assistant/)
 * @@
 
-### Special Use Cases
+### Special-Purpose
 
 * [Codepeer website generation](https://www.codepeer.ai/)
 * [CodiumAI test generation](https://www.codium.ai/)
@@ -22,6 +23,10 @@
 * [Figstack code explanation](https://www.figstack.com/)
 * [Mutable.AI code documentation](https://mutable.ai/)
 * @@
+
+### All-Purpose
+
+@@
 
 ## Best Practices
 
