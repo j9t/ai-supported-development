@@ -47,5 +47,6 @@
 
 ## Resources
 
+* [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)
 * [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
 * @@
