@@ -17,11 +17,18 @@
 
 ### Special-Purpose
 
+* [Bito code reviews](https://bito.ai/)
+* [Codacy quality, security, and coverage testing](https://www.codacy.com/)
 * [Codepeer website generation](https://www.codepeer.ai/)
+* [CodeRabbit code reviews](https://coderabbit.ai/)
+* [CodeScene code analysis](https://codescene.com/)
 * [CodiumAI test generation](https://www.codium.ai/)
 * [Grit tech debt and dependency management](https://about.grit.io/)
 * [Figstack code explanation](https://www.figstack.com/)
 * [Mutable.AI code documentation](https://mutable.ai/)
+* [PullRequest code reviews](https://www.pullrequest.com/)
+* [Reviewable code reviews](https://www.reviewable.io/)
+* [Snyk code analysis](https://snyk.io/)
 * @@
 
 ### All-Purpose
