@@ -31,19 +31,11 @@
 * [Snyk code analysis](https://snyk.io/)
 * @@
 
-### All-Purpose
-
-@@
-
 ## Best Practices
 
-### For Developers
-
-@@
-
-### For Managers
-
-@@
+* [_AI Software Development Best Practices for Scalability and Performance ](https://ncube.com/ai-software-development-best-practices-for-scalability-and-performance)
+* [_Best Practices for Coding with AI in 2024_](https://blog.codacy.com/best-practices-for-coding-with-ai)
+* @@
 
 ## Resources
 
