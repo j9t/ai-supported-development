@@ -33,7 +33,6 @@
 
 ## Best Practices
 
-* [_AI Software Development Best Practices for Scalability and Performance ](https://ncube.com/ai-software-development-best-practices-for-scalability-and-performance)
 * [_Best Practices for Coding with AI in 2024_](https://blog.codacy.com/best-practices-for-coding-with-ai)
 * @@
 
